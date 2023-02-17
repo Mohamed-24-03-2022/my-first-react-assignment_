@@ -2,7 +2,7 @@
   "name": "my-first-react-assignment",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mohamed-24-03-2022.github.io/my-first-react-assignment_/tree/gh-pages",
+  "homepage": "https://Mohamed-24-03-2022.github.io/my-first-react-assignment_",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
