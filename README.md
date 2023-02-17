@@ -5,3 +5,6 @@ This assignment is meant to build a simple React application with two components
 The application should be able to handle input fields and forms in React, using event handlers and state, it should also able to render lists, manage state/props in class components and delete/edit items from a list.
 
 The assignment provides both a "do-it-yourself guide" and a "detailed guide" for implementation, i did it all myself x) (by using google and documentations of course).
+
+
+<a href ="https://mohamed-24-03-2022.github.io/my-first-react-assignment_/"> <strong> Live Demo </strong> </a>
